@@ -13,4 +13,4 @@
 <img width="8%" title="VSCode" alt="VSCode Logo" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"></img>
 <br><br>
 ### Stats:
-![BeyYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyyt&count_private=true&theme=radical)
+![BeyYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyyt&show_icons=true&bg_color=0F0F0F&count_private=true)
