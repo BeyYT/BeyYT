@@ -1,6 +1,6 @@
 # Hi, I'm BeyYT!
 ## About Me:
-### I am a self-taught, fullstack developer, I started programming in 2019 with Python.<br>  I can code in 5 Languages as of now.<br><br> 
+### I am a self-taught, fullstack developer, I started programming in 2019 with Python.<br>  I can code in 5 Languages as of now.
 ### Languages:
 <img width="80vw" title="Python" alt="Python Logo" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg"></img>
 <img width="80vw" title="Javascript" alt="Javascript Logo" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"></img>
