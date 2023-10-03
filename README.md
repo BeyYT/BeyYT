@@ -11,7 +11,7 @@
 I have a few projects that I've worked on over the years:
 - **🚀 Galaxy Protectors (2019 - 2022)**
 - - Space Shooting Game, the first Genuine Project that I was interested in.
-- **⬜ Color Touch (2020 - 2020)**
+- **⬜ Color Touch (2020)**
 - - A Match The Color-like game, I haven't updated it in a while.
 - **📊 AstroUp, AstroBP, and AstroBot (2021 - ?)**
 - - Utilities for the game "Astrogon", Helped me learn Exploiting and Computer Security.
