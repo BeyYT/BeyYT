@@ -1,5 +1,5 @@
-### Heya! I'm BeyYT
-I'm a small developer that learned programming back in 2019, I'm a heavy coffee addict and I'm studying AP CSP!
+## Heya! I'm BeyYT
+**I'm a small developer that learned programming back in 2019, I'm a heavy coffee addict and I'm studying AP CSP!**
 
 ### About Me:
 - 🎂 **14** (Dec 3rd)
@@ -10,7 +10,7 @@ I'm a small developer that learned programming back in 2019, I'm a heavy coffee 
 ### My Projects:
 I have a few projects that I've worked on over the years:
 - **🚀 Galaxy Protectors (2019 - 2022)**
-- - Space Shooting Game, My First Genuine Project that I was interested in.
+- - Space Shooting Game, the first Genuine Project that I was interested in.
 - **⬜ Color Touch (2020 - 2020)**
 - - A Match The Color-like game, I haven't updated it in a while.
 - **📊 AstroUp, AstroBP, and AstroBot (2021 - ?)**
