@@ -21,7 +21,7 @@ I have a few projects that I've worked on over the years:
 - - Chat Application Using Firebase RTDB's.
 - **⛏ Chaos Realm 2 (2022)**
 - - A Minecraft Java server utilizing custom spigot plugins.
-- **⚔ BGPE (2023)**
+- **⚔ BGPE (2023 - ?)**
 - - Decompilation of Blocky Gun Paintball 2, a soon-to-be open-source community project.
 
 ### Github Stats:
