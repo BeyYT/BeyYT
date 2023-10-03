@@ -1,16 +1,28 @@
-# Hi, I'm BeyYT!
-## About Me:
-### I am a self-taught, fullstack developer, I started programming in 2019 with Python.<br>  I can code in 5 Languages as of now.
-### Languages:
-<img width="80vw" title="Python" alt="Python Logo" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg"></img>
-<img width="80vw" title="Javascript" alt="Javascript Logo" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"></img>
-<img width="80vw" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/typescript.svg"></img>
-<img width="80vw" title="Java" alt="Java Logo" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg"></img>
-<img width="80vw" title="Vlang" alt="Vlang Logo" src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.svg?sanitize=true"></img>
-<br><br>
-### Tools:
-<img width="80vw" title="Git" alt="Git Logo" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg"></img>
-<img width="80vw" title="VSCode" alt="VSCode Logo" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"></img>
-<br><br>
-### Stats:
+### Heya! I'm BeyYT
+I'm a small developer that learned programming back in 2019, I'm a heavy coffee addict and I'm studying AP CSP!
+
+### About Me:
+- 🎂 **14** (Dec 3rd)
+- 💻 **Computer Science Student**
+- 🎮 **Hypixel Skyblock**, **Beat Saber** and **osu!** player
+- ⚧ **He/Him**, **aroace** :)
+
+### My Projects:
+I have a few projects that I've worked on over the years:
+- **🚀 Galaxy Protectors (2019 - 2022)**
+- - Space Shooting Game, My First Genuine Project that I was interested in.
+- **⬜ Color Touch (2020 - 2020)**
+- - A Match The Color-like game, I haven't updated it in a while.
+- **📊 AstroUp, AstroBP, and AstroBot (2021 - ?)**
+- - Utilities for the game "Astrogon", Helped me learn Exploiting and Computer Security.
+- **🎵 Beatshape (2021 - ?)**
+- - 4 key rhythm game similar to osu!mania with online leaderboards.
+- **💬 SwitchChat (2021)**
+- - Chat Application Using Firebase RTDB's.
+- **⛏ Chaos Realm 2 (2022)**
+- - A Minecraft Java server utilizing custom spigot plugins.
+- **⚔ BGPE (2023)**
+- - Decompilation of Blocky Gun Paintball 2, a soon-to-be open-source community project.
+
+### Github Stats:
 ![BeyYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyyt&show_icons=true&bg_color=0F0F0F&count_private=true)
