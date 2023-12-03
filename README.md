@@ -2,10 +2,10 @@
 **I'm a small developer that learned programming back in 2019, I'm a heavy coffee addict and I'm studying AP CSP!**
 
 ### About Me:
-- 🎂 **14** (Dec 3rd)
+- 🎂 **15** (Dec 3rd)
 - 💻 **Computer Science Student**
 - 🎮 **Hypixel Skyblock**, **Beat Saber** and **osu!** player
-- ⚧ **He/Him**, **aroace** :)
+- ⚧ **She/Her (🏳️‍⚧️)**, **aroace** :)
 
 ### My Projects:
 I have a few projects that I've worked on over the years:
