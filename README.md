@@ -5,7 +5,7 @@
 - 🎂 **15** (Dec 3rd)
 - 💻 **Computer Science Student**
 - 🎮 **Hypixel Skyblock**, **Beat Saber** and **osu!** player
-- ⚧ **She/Her (🏳️‍⚧️)**, **aroace** :)
+- ⚧ **He/Him**, **bi** :)
 
 ### My Projects:
 I have a few projects that I've worked on over the years:
